@@ -131,3 +131,7 @@ endif
 if USE_AIKGEN
   SUBDIRS += aikgen
 endif
+
+if USE_AIKGEN2
+  SUBDIRS += aikgen2
+endif
